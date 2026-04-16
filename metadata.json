@@ -1,0 +1,6 @@
+{
+  "name": "Automatización de Incidencias Zalando",
+  "description": "Automatización impulsada por IA para incidencias de entrega fallida, incluyendo extracción, validación y auto-resolución.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
